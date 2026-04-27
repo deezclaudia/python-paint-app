@@ -64,12 +64,17 @@ Future Improvements
 
 ---
 
+Screenshot 
+
+<img width="862" height="470" alt="image" src="https://github.com/user-attachments/assets/13932539-84d2-46fa-834c-253339649843" />
+
+---
+
 Author
 
 Claudia H.
 
 ---
-
-## 📄 License
+License
 
 This project is licensed under the MIT License.
